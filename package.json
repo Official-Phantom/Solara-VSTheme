@@ -1,0 +1,58 @@
+{
+  "name": "solara",
+  "displayName": "Solara",
+  "description": "A dark red theme for VS Code.",
+  "version": "0.0.1",
+  "publisher": "JaydenDancer",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "author": {
+    "name": "Jayden Dancer",
+    "email": "Jaydencadedancer@proton.me"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solara",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solara-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Official-Phantom/Solara-VSTheme"
+  },
+  "bugs": {
+    "url": "https://github.com/Official-Phantom/Solara-VSTheme/issues",
+    "email": "jaydencadedancer@proton.me"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Red Theme",
+    "color-theme",
+    "Solara"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solara",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solara-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/Official-Phantom/Solara-VSTheme/blob/main/README.md",
+  "galleryBanner": {
+    "color": "#351717",
+    "theme": "dark"
+  }
+}
