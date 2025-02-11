@@ -31,4 +31,4 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide]()
+Read the [VSC Extension Quickstart Guide](https://github.com/Official-Phantom/Solara-VSTheme/blob/main/vsc-extension-quickstart.md)
