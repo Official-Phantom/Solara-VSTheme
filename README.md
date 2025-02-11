@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Solara Logo" src="https://github.com/Official-Phantom/Solara-VSTheme/blob/main/images/logo.png" width="100" />
+  <img alt="Solara Logo" src="https://raw.githubusercontent.com/Official-Phantom/Solara-VSTheme/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Solara Theme for VS Code
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://github.com/Official-Phantom/Solara-VSTheme/blob/main/images/demo.png)
+![demo](https://raw.githubusercontent.com/Official-Phantom/Solara-VSTheme/main/images/demo.png)
 
 ## Installation via VS Code
 
